@@ -412,6 +412,7 @@ footer {
 }
 .polaroid img,
 .polaroid .img {
+  background-image: url("jern.jpg");
   width: 100%;
   height: 100%;
   -webkit-backface-visibility: hidden;
